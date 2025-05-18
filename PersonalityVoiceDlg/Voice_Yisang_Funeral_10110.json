@@ -8,7 +8,7 @@
         {
             "id": "lobby_morning_10110_1",
             "desc": "Morning Greeting",
-            "dlg": "I apologize for bothering you in such early hours of the morning. I hope I did not wrest you from a dream."
+            "dlg": "Sizi sabahın erken saatlerinde rahatsız ettiğim için üzgünüm, umarım sizi rüyadan kaldırmamışımdır"
         },
         {
             "id": "lobby_noon_10110_1",
@@ -73,12 +73,12 @@
         {
             "id": "battle_endcommand_10110_1",
             "desc": "Commencing Attack",
-            "dlg": "Please, step forth."
+            "dlg": "Lütfen ilerleyin."
         },
         {
             "id": "battle_enemy_break_10110_1",
             "desc": "Enemy Stagger",
-            "dlg": "Go into the night without worry."
+            "dlg": "Geceye doğru dert etmeden ilerle."
         },
         {
             "id": "battle_break_10110_1",
@@ -93,7 +93,7 @@
         {
             "id": "battle_dead_10110_1",
             "desc": "Death",
-            "dlg": "Could the small wings... of a butterfly have... fluttered away from this... place...?"
+            "dlg": "Kelebeklerin sahip olduğu... bu küçük kanatlar... onu buralardan uzağa... uçurmuş olabilir mi...?"
         },
         {
             "id": "choice_success_p_10110_2",
